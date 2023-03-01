@@ -1,7 +1,6 @@
 import 'dart:io';
-
-void main() {
-  List<double> Thongke = [];
+void xl(){
+   List<double> Thongke = [];
 
   while (true) {
     stdout.write('hay nhap chi phi (nhap "hoan thanh" de ket thuc): ');
@@ -22,4 +21,6 @@ void main() {
   for (var thongke in Thongke) {
     total += thongke;
   }
+void main() {
+ x1();
 }
