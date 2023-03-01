@@ -1,7 +1,7 @@
 import 'dart:io';
 void main(){
   //Cau1
-    print("Bui Thi Quynh");
+    print("Nguyễn Phong");
   // Cau 2
   print("Hello I am John Doe ");
   print(" Hello I'm John Doe ");
